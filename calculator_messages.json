@@ -1,0 +1,29 @@
+{
+    "en": {
+        "welcome" : "Welcome to my calculator!",
+        "ask_first_number" : "Please give me a number:",
+        "invalid_number" : "Hmm... that doesn't look like a valid number. Please try again.",
+        "one_more_number" : "Please give me one more number:",
+        "stating_numbers" : "You have entered {num1} and {num2}.",
+        "ask_operation" : "Would you like to 1) add, 2) subtract, 3) multiply or 4) divide?",
+        "operation_choice" : "You must choose 1, 2, 3, or 4:",
+        "result" : "The result is {output}.",
+        "another_calculation" : "Would you like to perform another calculation? Press Y for Yes and N for No:",
+        "preference_choice" : "You must choose Y or N. Please type in your choice again:",
+        "end_of_program" : "Thanks for using my calculator! Have a great day!"
+    },
+
+    "es": {
+        "welcome" : "¡Bienvenido a mi calculadora!",
+        "ask_first_number" : "Por favor dame un número:",
+        "invalid_number" : "Hmm... eso no parece a un número válido. Por favor, inténtalo de nuevo.",
+        "one_more_number" : "Por favor dame un número más:",
+        "stating_numbers" : "Okay, tenemos números {num1} and {num2}.",
+        "ask_operation" : "¿Te gustaría 1) sumar, 2) restar, 3) multiplicar o 4) dividir?",
+        "operation_choice" : "Debes elegir 1, 2, 3 o 4:",
+        "result" : "El resultado es {output}.",
+        "another_calculation" : "¿Desea realizar otro cálculo? Presione Y para Sí y N para No:",
+        "preference_choice" : "Debes seleccionar Y o N. Escribe nuevamente tu elección:",
+        "end_of_program" : "¡Gracias por usar mi calculadora! ¡Que tengas un buen día!"
+    }
+}
